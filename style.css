@@ -229,7 +229,7 @@ h2{
     height: 300px;
     width: 250px;
     border-radius: 10px;
-    background-image: url(Sir\ 2.jpg);
+    background-image: url(images/Sir\ 2.jpg);
     background-size: cover;
     background-position:left;
     transform: scale(1.1);
@@ -247,7 +247,7 @@ h2{
     height: 300px;
     width: 250px;
     border-radius: 10px;
-    background-image: url(sir.jpg);
+    background-image: url(images/sir.jpg);
     background-size: cover;
     background-position: center;
     transition: all ease 0.6s;
@@ -258,7 +258,7 @@ h2{
 
 .about-section .img2:hover{
     transform: scale(1);
-    filter: saturate(200%);
+    filter: saturate(150%);
 }
 
 /* page 4 content start */
@@ -291,19 +291,19 @@ h2{
 }
 
 .page4-content .box-content .box1{
-    background-image: url(library.jpg);
+    background-image: url(images/library.jpg);
     background-size: cover;
     background-position: top;
 }
 
 .page4-content .box-content .box2{
-    background-image: url(Tample.jpg);
+    background-image: url(images/Tample.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .page4-content .box-content .box3{
-    background-image: url(Sports.jpg);
+    background-image: url(images/Sports.jpg);
     background-size: cover;
     background-position:center;
 }
@@ -388,7 +388,7 @@ h2{
 }
 
 .food-content .food-img{
-    background-image: url(Cantin.jpg);
+    background-image: url(images/Cantin.jpg);
     background-size: cover;
     background-position: center;
     height:75%;
