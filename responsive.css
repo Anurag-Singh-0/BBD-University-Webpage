@@ -1,0 +1,139 @@
+@media (max-width:600px) {
+    .navbar img{
+        height:8vh;
+    }
+    .navbar ul li a {
+        display: none;
+    }
+
+    .navbar .login{
+        padding: 5px 25px;
+        position: relative;
+        right: -6%;
+    }
+    .navbar{
+        height: 9vh;
+        padding: 40px 5px;
+    }
+
+    video{
+        height: 100%;
+        width: 100%;
+    }
+
+    .page1-content h1{
+        font-size:48px;
+        width: 80%;
+        font-weight: 900;
+        position: relative;
+        top: -10%;
+        text-align: center;
+        letter-spacing: normal;
+    }
+
+    .cursor{
+        display: none;
+    }
+
+    .blur-cursor{
+        display: none;
+    }
+
+    .page1-content h2{
+        font-size:20px;
+        width: 70%;
+        text-align: center;
+        position: relative;
+        top: -5%;
+        letter-spacing: normal;
+    }
+
+    .page1-content p{
+        font-size: 13px;
+        width: 90%;
+        position: relative;
+        top: -2%;
+    }
+
+    .scroller .scroller-in h4{
+        color: #ff0033;
+        -webkit-text-stroke: 0;
+        font-size: 70px;
+    }
+
+    .about-section{
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: space-evenly;
+        height:90%;
+        width: 100%;
+    }
+
+    .about-us p{
+        display: none;
+    }
+    .about-us h3{
+        display: none;
+    }
+
+    .about-section .img1{
+        height: 200px;
+        width: 120%;
+        margin-top: 90px;
+        border-radius: 5px;
+    }
+
+    .about-section .img2{
+        height: 300px;
+        width: 120%;
+        border-radius: 5px;
+        margin-top: 30px;
+    }
+    .page4-content{
+        height: 180vh;
+        width: 100%;
+        background-color: cornflo;
+    }
+
+    .page4-content .box-content{
+        height: 140vh;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content:space-evenly;
+    }
+
+    .page4-content .box-content .box{
+        height: 400px;
+        width:270px;
+        border-radius: 10px;
+        margin-top:40px;
+    }
+
+    .box-content .overlay{
+        padding: 20px 10px;
+    }
+    .page4-content .box-content .overlay h4{
+        font-size: 30px;
+    }
+    .page4-content .box-content .overlay p{
+        font-size: 15px;
+    }
+
+    .page5-content .sign-up-div{
+        height: 15vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: linear-gradient(12deg, #16A085 0%, #F4D03F  0%, #16A085  100%);
+    }
+
+    .page5-content .sign-up-div h4{
+        font-size: 16px;
+        width: 90%;
+    }
+    .sign-up-div img{
+        display: none;
+    }
+}
