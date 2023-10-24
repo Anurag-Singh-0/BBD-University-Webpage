@@ -458,7 +458,7 @@ h2{
     padding: 5%;
     position: relative;
     background-color:#000;
-    margin-top: 6.9%;
+    margin-top: 6.5%;
 }
 
 .page6-content p{
@@ -486,14 +486,8 @@ h2{
     bottom: 20%;
 }
 
-.page7-content{
-    height: 45vh;
-    width:100%;
-    background-color: cornflowerblue;
-}
-
 .foot-part{
     height: 55vh;
     width: 100%;
-    background-color: #ff0055;
+    background-color: #1c2431;
 }
